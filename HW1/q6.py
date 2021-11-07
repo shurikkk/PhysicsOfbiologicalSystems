@@ -35,6 +35,7 @@ for ii in range(m):
                     for child_i in children_i:
                         nodes_is_infected[child_i] = True
             count += sum(1 for x in nodes_is_infected if x)
+            print(i, j, count)
         if count not in res[ii]:
             res[ii][count] = 1
         else:
