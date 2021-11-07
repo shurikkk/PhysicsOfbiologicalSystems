@@ -30,7 +30,7 @@ for ii in range(m):
             nodes_is_infected = np.random.uniform(0, 1, int(total_number_of_nodes))
             nodes_is_infected = nodes_is_infected < alpha_g
             for node_i, prob in enumerate(nodes_is_infected):
-                if prob is True or True:
+                if prob is True:
                     children_i = find_child_index(node_i)
                     for child_i in children_i:
                         nodes_is_infected[child_i] = True
