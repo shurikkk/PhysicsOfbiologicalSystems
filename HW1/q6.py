@@ -1,4 +1,5 @@
 import numpy as np
+import json
 
 m = 1
 c = 500
@@ -43,3 +44,5 @@ for ii in range(m):
 
 
 print(res)
+with open('res.dat', 'w') as fl:
+    json.dump(res, fl)
