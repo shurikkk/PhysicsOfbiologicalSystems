@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - q1-5">
-      <change afterPath="$PROJECT_DIR$/HW1/q6_3_analyze_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/q6_framework_naive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_2_prepare_simulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_playground.py" afterDir="false" />
+    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - q1-6">
       <change beforePath="$PROJECT_DIR$/HW1/q6_framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_framework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6_inefected.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6_inefected2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/res.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/res.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/res2.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/res2.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +262,13 @@
       <option name="presentableId" value="LOCAL‎00008" />
       <updated>1636366639230</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL‎00009" summary="HW1 - q1-6">
+      <created>1636454766044</created>
+      <option name="number" value="LOCAL‎00009" />
+      <option name="presentableId" value="LOCAL‎00009" />
+      <updated>1636454766044</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +286,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1 - q1-4" />
     <MESSAGE value="HW1 - q1-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 - q1-5" />
+    <MESSAGE value="HW1 - q1-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1 - q1-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

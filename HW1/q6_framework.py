@@ -74,12 +74,12 @@ def simulate_single_branch(n_s_i=1):
     first_g = g+1
     for i in range(1, g+1):
         # print(i)
-        potential_mutant_cells = 2*n_s[i-1]
+        potential_mutant_cells = number_of_children*n_s[i-1]
         mutations = np.random.poisson(alpha_g, potential_mutant_cells)
         n_mutations = np.count_nonzero(mutations)
         if first_g == g+1 and n_mutations > 0:
             first_g = i
-        n_s[i] = number_of_children*(n_s[i-1] - n_mutations)
-        n_r[i] = number_of_children*(n_r[i-1] + n_mutations)
+        n_s[i] = number_of_children*n_s[i-1] - n_mutations
+        n_r[i] = number_of_children*n_r[i-1] + n_mutations
 
     return sum(n_r), first_g
