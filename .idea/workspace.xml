@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - q1-6">
-      <change beforePath="$PROJECT_DIR$/HW1/q6_framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_framework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/res.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/res.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +269,13 @@
       <option name="presentableId" value="LOCAL‎00009" />
       <updated>1636454766044</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL‎00010" summary="HW1 - q1-6">
+      <created>1636455054999</created>
+      <option name="number" value="LOCAL‎00010" />
+      <option name="presentableId" value="LOCAL‎00010" />
+      <updated>1636455054999</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
