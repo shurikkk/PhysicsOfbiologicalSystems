@@ -48,12 +48,12 @@ def find_subtree_ranges(node_i):
 
 
 def prepare_random_infected_nodes():
-    nodes_is_infected = np.random.uniform(0, 1, int(total_number_of_nodes))
+    nodes_is_infected = np.random.poisson(alpha_g, int(total_number_of_nodes))
     # The first node has no mutation
-    nodes_is_infected[0] = 1
+    nodes_is_infected[0] = 0
     # Now run over all the cells and check whether we have two mutated children cells.
     # In case there are, choose the first one to be mutated.
-    nodes_is_infected = nodes_is_infected < alpha_g
+    nodes_is_infected = nodes_is_infected > 0
     left_child_i = 0
     right_child_i = 0
     while left_child_i < g:
@@ -65,21 +65,44 @@ def prepare_random_infected_nodes():
     return nodes_is_infected
 
 
-def simulate_single_branch(n_s_i=1):
-    n_s = [0] * (g+1)
-    n_r = [0] * (g+1)
-    # n_s[0] = n_s_i
-    n_s[0] = 1
-    # n_s[0] = 1
-    first_g = g+1
-    for i in range(1, g+1):
-        # print(i)
-        potential_mutant_cells = 2*n_s[i-1]
-        mutations = np.random.poisson(alpha_g, potential_mutant_cells)
-        n_mutations = np.count_nonzero(mutations)
-        if first_g == g+1 and n_mutations > 0:
-            first_g = i
-        n_s[i] = number_of_children*(n_s[i-1] - n_mutations)
-        n_r[i] = number_of_children*(n_r[i-1] + n_mutations)
+def simulate_single_branch(_):
+    nodes_is_infected = prepare_random_infected_nodes()
+    # infected_i = np.where(nodes_is_infected == True).tolist()
+    min_i = np.argmax(nodes_is_infected)
+    if min_i == 0:
+        # The first node has no mutation, thus we for sure got no mutant cells at all!
+        first_g = g + 1
+    else:
+        first_g = find_generation(min_i)
 
-    return sum(n_r), first_g
+    infected_i = list(np.where(nodes_is_infected == True)[0])
+    # infected_i2 = list(np.where(nodes_is_infected == True)[0])
+    # valid_infected_i2 = list(np.where(nodes_is_infected == True)[0])
+
+    # start = timer()
+    # test_sum = 0
+    # for node_i in infected_i2:
+    #     if node_i not in valid_infected_i2:
+    #         continue
+    #     node_g = find_generation(node_i)
+    #     test_sum += calculate_tree_size(tree_depth - node_g)
+    #     subtree_ranges = find_subtree_ranges(node_i)
+    #     valid_infected_i2 = [x for x in valid_infected_i2 if x not in itertools.chain(*subtree_ranges)]
+    # end = timer()
+    # print(end - start)  # Time in seconds, e.g. 5.38091952400282
+
+    # start = timer()
+    while len(infected_i) > 0:
+        next_infected_i = []
+        for node_i in infected_i:
+            # We don't have to change all the tree, but to add the spanning sub_tree size
+            children_i = find_child_index(node_i)
+            for child_i in children_i:
+                if child_i < total_number_of_nodes:
+                    nodes_is_infected[child_i] = True
+                    next_infected_i.append(child_i)
+        infected_i = next_infected_i
+    test_sum2 = sum(1 for x in nodes_is_infected if x)
+    # end = timer()
+    # print(end - start)  # Time in seconds, e.g. 5.38091952400282
+    return test_sum2, first_g

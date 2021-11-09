@@ -1,5 +1,5 @@
 import numpy as np
-import scipy.stats as sp
+# import scipy.stats as sp
 import matplotlib.pyplot as plt
 
 

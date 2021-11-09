@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - q1-5">
-      <change afterPath="$PROJECT_DIR$/HW1/q6_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/q6_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/q6_framework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PhysicsOfbiologicalSystems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PhysicsOfbiologicalSystems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW1/q6_3_analyze_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW1/q6_framework_naive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_2_prepare_simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_playground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_framework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_inefected.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_inefected2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/res.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/res.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW1/res2.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/res2.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +68,7 @@
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q6_2">
+  <component name="RunManager" selected="Python.q6_2_prepare_simulation">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PhysicsOfbiologicalSystems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +82,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q6_2_prepare_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PhysicsOfbiologicalSystems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW1/q6_2_prepare_simulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q6_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q6_3_analyze_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PhysicsOfbiologicalSystems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW1/q6_4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems\HW1\q6_3_analyze_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,28 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q6_framework" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Carmel\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW1" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems\HW1\q6_framework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q6_inefected" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q6_4_find_first_mutation_generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PhysicsOfbiologicalSystems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1\q6_inefected.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q6_inefected2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q6_playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PhysicsOfbiologicalSystems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1\q6_inefected2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems\HW1\q6_playground.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +198,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.q6_2" />
-      <item itemvalue="Python.q6_inefected" />
-      <item itemvalue="Python.q6_inefected2" />
-      <item itemvalue="Python.q6_framework" />
       <item itemvalue="Python.q6_3" />
-      <item itemvalue="Python.q6_4" />
+      <item itemvalue="Python.q6_4_find_first_mutation_generation" />
+      <item itemvalue="Python.q6_2_prepare_simulation" />
+      <item itemvalue="Python.q6_3_analyze_data" />
+      <item itemvalue="Python.q6_playground" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q6_4" />
+        <item itemvalue="Python.q6_2_prepare_simulation" />
+        <item itemvalue="Python.q6_playground" />
+        <item itemvalue="Python.q6_4_find_first_mutation_generation" />
+        <item itemvalue="Python.q6_3_analyze_data" />
         <item itemvalue="Python.q6_3" />
-        <item itemvalue="Python.q6_framework" />
-        <item itemvalue="Python.q6_inefected" />
-        <item itemvalue="Python.q6_inefected2" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +268,13 @@
       <option name="presentableId" value="LOCAL‎00007" />
       <updated>1636355489928</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL‎00008" summary="HW1 - q1-5">
+      <created>1636366639230</created>
+      <option name="number" value="LOCAL‎00008" />
+      <option name="presentableId" value="LOCAL‎00008" />
+      <updated>1636366639230</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,44 +338,15 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_inefected2.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_inefected2.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_inefected.py</url>
-          <line>69</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_inefected.py</url>
-          <line>66</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_2.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_3.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW1/q6_4.py</url>
+          <url>file://$PROJECT_DIR$/HW1/q6_playground.py</url>
           <line>11</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="n_mutations" language="Python" />
           <url>file://$PROJECT_DIR$/HW1/q6_framework.py</url>
-          <line>90</line>
-          <option name="timeStamp" value="91" />
+          <line>79</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
