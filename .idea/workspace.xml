@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - q1-6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" afterDir="false" />
-    </list>
+    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -276,7 +272,13 @@
       <option name="presentableId" value="LOCAL‎00010" />
       <updated>1636455054999</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL‎00011" summary="HW1 - final">
+      <created>1636897581814</created>
+      <option name="number" value="LOCAL‎00011" />
+      <option name="presentableId" value="LOCAL‎00011" />
+      <updated>1636897581814</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +297,8 @@
     <MESSAGE value="HW1 - q1-4" />
     <MESSAGE value="HW1 - q1-5" />
     <MESSAGE value="HW1 - q1-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 - q1-6" />
+    <MESSAGE value="HW1 - final" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1 - final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
