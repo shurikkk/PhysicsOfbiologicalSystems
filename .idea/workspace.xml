@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW1 - q1-6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/res.dat" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/res.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/q6_4_find_first_mutation_generation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q6_2_prepare_simulation">
+  <component name="RunManager" selected="Python.q6_4_find_first_mutation_generation">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PhysicsOfbiologicalSystems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,10 +196,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q6_2_prepare_simulation" />
-        <item itemvalue="Python.q6_playground" />
         <item itemvalue="Python.q6_4_find_first_mutation_generation" />
         <item itemvalue="Python.q6_3_analyze_data" />
+        <item itemvalue="Python.q6_2_prepare_simulation" />
+        <item itemvalue="Python.q6_playground" />
         <item itemvalue="Python.q6_3" />
       </list>
     </recent_temporary>
