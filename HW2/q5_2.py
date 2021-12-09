@@ -27,7 +27,7 @@ plt.xlabel('s')
 plt.ylabel('A')
 plt.show()
 
-T = 1/n*t_max
+T = 100/n*t_max
 s, ac = calculate_autocorrelation(t, x_hist-x_start, T, dt)
 
 f, ps = calculate_power_spectrum(s, ac)
@@ -39,7 +39,7 @@ plt.plot(f, ps, '.')
 plt.xlabel('f')
 plt.ylabel('C')
 plt.xlim([1e-1, 1e3])
-plt.ylim([1e-0, 1e3])
+plt.ylim([1e-1, 1e3])
 plt.xscale('log')
 plt.yscale('log')
 # ax.axvline(x=f_c, alpha=0.8, ymax=0.8, linestyle=":")

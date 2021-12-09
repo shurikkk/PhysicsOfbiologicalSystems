@@ -32,7 +32,7 @@ plt.xlabel('s')
 plt.ylabel('A')
 plt.show()
 
-T = 1/n*t_max
+T = 100/n*t_max
 s, ac = calculate_autocorrelation(t, x_hist-x_start, T, dt)
 f, ps = calculate_power_spectrum(s, ac)
 plt.figure()

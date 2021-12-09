@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="HW2 - q1-2">
-      <change afterPath="$PROJECT_DIR$/HW2/djiweekly.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_simulation - Copy.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_simulation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q4_simulation.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q5_0_check_problem_6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q5_framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q6_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/q6_framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/vanMameren.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/q6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/q6_2.xml" afterDir="false" />
+    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/q5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/q5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/q5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/q5_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +65,7 @@
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q6_3">
+  <component name="RunManager" selected="Python.q5_1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,10 +284,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.q5_1" />
+        <item itemvalue="Python.q5_2" />
         <item itemvalue="Python.q6_3" />
         <item itemvalue="Python.q6_1" />
-        <item itemvalue="Python.q5_2" />
-        <item itemvalue="Python.q5_1" />
         <item itemvalue="Python.q1_2_1" />
       </list>
     </recent_temporary>
@@ -391,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638170154480</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW2 - q1-6">
+      <created>1639067669631</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639067669631</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +398,8 @@
     <MESSAGE value="HW1 - q1-5" />
     <MESSAGE value="HW1 - q1-6" />
     <MESSAGE value="HW2 - q1-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2 - q1-2" />
+    <MESSAGE value="HW2 - q1-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2 - q1-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
