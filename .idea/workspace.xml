@@ -5,9 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HW3/.idea/HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelA1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelA2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelA3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelC.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelD1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelD2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/panelD3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q1_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q1_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q1_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q2_1_Poisson_process_simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q2_2_Poisson_process_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q2_3_Poisson_process_simulation_50_samples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q3_1_1_YourTurn10C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q3_1_birth_death_simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q3_2_probability_of_zero_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q4_1_burst_birth_death_simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q4_2_transcriptional_bursting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q4_framework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q4_framework_not_working.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q5_1_solve_SIR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q5_3_solve_SIR_cases_rate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q5_framework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/q6_SIRS_fixed_point_stability_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/yildizHistoGreen.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/yildizHistoRed.npy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2/q5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/q5_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2/q5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/q5_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,23 +78,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW3" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW2" />
       <recent name="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
       <recent name="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW2" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q5_1">
+  <component name="RunManager" selected="Python.q3_2_probability_of_zero_copy">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,19 +139,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q1_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW2" />
+    <configuration name="q3_2_probability_of_zero_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/q1_2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q3_2_probability_of_zero_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,19 +160,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW2" />
+    <configuration name="q4_1_burst_birth_death_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/q5_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q4_1_burst_birth_death_simulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,19 +181,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q5_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW2" />
+    <configuration name="q4_2_transcriptional_bursting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/q5_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q4_2_transcriptional_bursting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,19 +202,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW2" />
+    <configuration name="q5_3_solve_SIR_cases_rate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/q6_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q5_3_solve_SIR_cases_rate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +223,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q6_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW2" />
+    <configuration name="q6_SIRS_fixed_point_stability_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/q6_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q6_SIRS_fixed_point_stability_check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +307,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.q6_2" />
-      <item itemvalue="Python.q5_1" />
-      <item itemvalue="Python.q5_2" />
-      <item itemvalue="Python.q1_2_1" />
-      <item itemvalue="Python.q6_1" />
-      <item itemvalue="Python.q6_3" />
+      <item itemvalue="Python.q4_1_burst_birth_death_simulation" />
+      <item itemvalue="Python.q5_3_solve_SIR_cases_rate" />
+      <item itemvalue="Python.q6_SIRS_fixed_point_stability_check" />
+      <item itemvalue="Python.q4_2_transcriptional_bursting" />
+      <item itemvalue="Python.q3_2_probability_of_zero_copy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q5_1" />
-        <item itemvalue="Python.q5_2" />
-        <item itemvalue="Python.q6_3" />
-        <item itemvalue="Python.q6_1" />
-        <item itemvalue="Python.q1_2_1" />
+        <item itemvalue="Python.q3_2_probability_of_zero_copy" />
+        <item itemvalue="Python.q4_2_transcriptional_bursting" />
+        <item itemvalue="Python.q4_1_burst_birth_death_simulation" />
+        <item itemvalue="Python.q6_SIRS_fixed_point_stability_check" />
+        <item itemvalue="Python.q5_3_solve_SIR_cases_rate" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639067669631</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HW2 - q1-6">
+      <created>1639068366289</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639068366289</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,6 +577,92 @@
           <url>file://$PROJECT_DIR$/HW2/q6_2.py</url>
           <line>18</line>
           <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_3.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_3.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_3.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_3.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_3.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q1_2_3.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q2_3_Poisson_process_simulation_50_samples.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q2_2_Poisson_process_addition.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q3_1_birth_death_simulation.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q3_1_birth_death_simulation.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="rate &lt;= 0" language="Python" />
+          <url>file://$PROJECT_DIR$/HW3/q4_framework.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q3_1_1_YourTurn10C.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q5_1_solve_SIR.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q4_framework.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q4_1_burst_birth_death_simulation.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW3/q4_framework.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="283" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
