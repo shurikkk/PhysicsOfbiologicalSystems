@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW3/.idea/HW3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelA1.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelA2.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelA3.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelC.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelD1.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelD2.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/panelD3.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q1_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q1_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q1_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q2_1_Poisson_process_simulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q2_2_Poisson_process_addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q2_3_Poisson_process_simulation_50_samples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q3_1_1_YourTurn10C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q3_1_birth_death_simulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q3_2_probability_of_zero_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q4_1_burst_birth_death_simulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q4_2_transcriptional_bursting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q4_framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q4_framework_not_working.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q5_1_solve_SIR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q5_3_solve_SIR_cases_rate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q5_framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/q6_SIRS_fixed_point_stability_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/yildizHistoGreen.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/yildizHistoRed.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -416,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639068366289</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HW3">
+      <created>1643030960639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643030960641</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +411,8 @@
     <MESSAGE value="HW1 - q1-6" />
     <MESSAGE value="HW2 - q1-2" />
     <MESSAGE value="HW2 - q1-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2 - q1-6" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
