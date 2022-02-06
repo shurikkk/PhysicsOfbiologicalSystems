@@ -9,6 +9,7 @@ def calculate_tree_size(_g):
 
 m = 1
 c = 5000
+# c = 5000
 n0 = 200
 alpha_g = 2e-9
 # alpha_g = 1/1000
@@ -68,7 +69,7 @@ def prepare_random_infected_nodes():
 def simulate_single_branch(mutation_rate_func):
     n_wt = np.zeros(g+1)
     n_mut = np.zeros(g+1)
-    n_wt[0] = 1
+    n_wt[0] = n0
     # n_s[0] = 1
     first_g = g+1
     for i in range(1, g+1):
