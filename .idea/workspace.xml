@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="" />
+    <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Final/.idea/Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/500/minimal_generation_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/500/minimal_generation_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/500/mutations_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/500/mutations_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/Lurie_Delbruck_framework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/q6_3_analyze_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/q6_4_find_first_mutation_generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,25 +59,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Final" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW3\Final" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW3" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW2" />
       <recent name="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
       <recent name="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems" />
-      <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\" />
+      <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW3\Final\500" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW2" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q3_2_probability_of_zero_copy">
+  <component name="RunManager" selected="Python.q6_3_analyze_data">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,27 +142,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q4_1_burst_birth_death_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q4_1_burst_birth_death_simulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="q4_2_transcriptional_bursting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q5_3_solve_SIR_cases_rate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q6_2_prepare_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q5_3_solve_SIR_cases_rate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/Final/q6_2_prepare_simulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q6_SIRS_fixed_point_stability_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q6_3_analyze_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,11 +192,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q6_SIRS_fixed_point_stability_check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/Final/q6_3_analyze_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q6_4_find_first_mutation_generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/Final" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/Final/q6_4_find_first_mutation_generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,19 +289,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.q6_2" />
-      <item itemvalue="Python.q4_1_burst_birth_death_simulation" />
-      <item itemvalue="Python.q5_3_solve_SIR_cases_rate" />
-      <item itemvalue="Python.q6_SIRS_fixed_point_stability_check" />
       <item itemvalue="Python.q4_2_transcriptional_bursting" />
       <item itemvalue="Python.q3_2_probability_of_zero_copy" />
+      <item itemvalue="Python.q6_2_prepare_simulation" />
+      <item itemvalue="Python.q6_3_analyze_data" />
+      <item itemvalue="Python.q6_4_find_first_mutation_generation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.q6_3_analyze_data" />
+        <item itemvalue="Python.q6_2_prepare_simulation" />
+        <item itemvalue="Python.q6_4_find_first_mutation_generation" />
         <item itemvalue="Python.q3_2_probability_of_zero_copy" />
         <item itemvalue="Python.q4_2_transcriptional_bursting" />
-        <item itemvalue="Python.q4_1_burst_birth_death_simulation" />
-        <item itemvalue="Python.q6_SIRS_fixed_point_stability_check" />
-        <item itemvalue="Python.q5_3_solve_SIR_cases_rate" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643030960641</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HW3">
+      <created>1643202256811</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643202256812</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
