@@ -8,7 +8,7 @@ def calculate_tree_size(_g):
 
 
 m = 1
-c = 500
+c = 5000
 n0 = 200
 alpha_g = 2e-9
 # alpha_g = 1/1000
