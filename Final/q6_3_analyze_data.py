@@ -3,15 +3,16 @@ import numpy as np
 import Lurie_Delbruck_framework as q6_framework
 
 
-number_of_mutations = np.load('500/mutations_1.npy')
+number_of_mutations = np.load('mutations_1.npy')
 
 number_of_bins = 50
-sample = [x if x < number_of_bins else number_of_bins for x in number_of_mutations]
+max_threshold = 300
+sample = [x if x < max_threshold else max_threshold for x in number_of_mutations]
 
 fig = plt.figure()
 ax = fig.add_subplot(1, 1, 1)
 # print(x)
-bins = list(range(0, number_of_bins+1))
+bins = list(range(0, max_threshold+1, max_threshold // number_of_bins))
 ax.hist(sample, bins=bins)
 plt.xlabel('Bins')
 plt.ylabel('# of random numbers in bin')
