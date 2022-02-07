@@ -3,10 +3,10 @@ import numpy as np
 import Lurie_Delbruck_framework as q6_framework
 
 
-number_of_mutations = np.load('mutations_1.npy')
+number_of_mutations = np.load('mutations_3.npy')
 
 number_of_bins = 50
-max_threshold = 300
+max_threshold = 50
 sample = [x if x < max_threshold else max_threshold for x in number_of_mutations]
 
 fig = plt.figure()

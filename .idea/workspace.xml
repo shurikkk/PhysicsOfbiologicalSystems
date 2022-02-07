@@ -6,7 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/.idea/Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final/.idea/Final.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_0.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_0.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_1.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_1.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_2.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_2.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_3.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_3.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_0.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_0.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_1.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_1.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_2.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_2.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_3.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_3.npy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/q6_3_analyze_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final/q6_3_analyze_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Final" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Final/q6_3_analyze_data.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -160,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/Final/q6_2_prepare_simulation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/Final/q6_3_analyze_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final/q6_3_analyze_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3/Final" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/Final/q6_4_find_first_mutation_generation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final/q6_4_find_first_mutation_generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644189617017</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Final">
+      <created>1644190467075</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1644190467075</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

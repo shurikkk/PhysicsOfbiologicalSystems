@@ -24,7 +24,7 @@ def mutation_rate_func_2(alpha_g, wt_number, mutation_number):
     :param mutation_number: number of mutated cells.
     :return:
     """
-    return alpha_g * 1 * (1 + mutation_number / (mutation_number + wt_number))
+    return alpha_g * (1 + 1 * mutation_number / (mutation_number + wt_number))
 
 
 def mutation_rate_func_3(alpha_g, wt_number, mutation_number):
@@ -35,7 +35,7 @@ def mutation_rate_func_3(alpha_g, wt_number, mutation_number):
     :param mutation_number: number of mutated cells.
     :return:
     """
-    return alpha_g * 4 * (1 + mutation_number / (mutation_number + wt_number))
+    return alpha_g * (1 + 4 * mutation_number / (mutation_number + wt_number))
 
 
 def mutation_rate_func_4(alpha_g, wt_number, mutation_number):
@@ -46,7 +46,7 @@ def mutation_rate_func_4(alpha_g, wt_number, mutation_number):
     :param mutation_number: number of mutated cells.
     :return:
     """
-    return alpha_g * 6 * (1 + mutation_number / (mutation_number + wt_number))
+    return alpha_g * (1 + 6 * mutation_number / (mutation_number + wt_number))
 
 
 if __name__ == '__main__':
