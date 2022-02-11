@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b8f9e4-a0ca-4cf1-b8ed-9e8c993d5fdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Final/betas.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/minimal_generations.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/mutations.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/part1_prepare_simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/part2_analyze_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/part3_cov.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/.idea/Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final/.idea/Final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_0.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_0.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_1.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_1.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_2.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_2.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_3.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/minimal_generation_3.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/mutations_0.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_0.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/mutations_1.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_1.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/mutations_2.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_2.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/mutations_3.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Final/mutations_3.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/q6_3_analyze_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final/q6_3_analyze_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/Lurie_Delbruck_framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final/Lurie_Delbruck_framework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_0.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_1.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/minimal_generation_3.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_0.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_1.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/mutations_3.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/q6_3_analyze_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/q6_4_find_first_mutation_generation.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,16 +65,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Final/q6_3_analyze_data.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Final" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\Final" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW3\Final" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW3" />
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW2" />
       <recent name="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
-      <recent name="C:\Users\Carmel\PycharmProjects\PhysicsOfbiologicalSystems" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\" />
@@ -77,7 +84,7 @@
       <recent name="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\HW1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q6_3_analyze_data">
+  <component name="RunManager" selected="Python.part2_analyze_data">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,6 +127,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="part1_prepare_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\Final\part1_prepare_simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part2_analyze_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\Final\part2_analyze_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part3_cov" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\leibe\PycharmProjects\PhysicsOfbiologicalSystems\Final\part3_cov.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="q3_2_probability_of_zero_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,69 +203,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q3_2_probability_of_zero_copy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q4_2_transcriptional_bursting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3/q4_2_transcriptional_bursting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q6_2_prepare_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final/q6_2_prepare_simulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q6_3_analyze_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HW3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final/q6_3_analyze_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,19 +295,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.q6_2" />
-      <item itemvalue="Python.q4_2_transcriptional_bursting" />
       <item itemvalue="Python.q3_2_probability_of_zero_copy" />
-      <item itemvalue="Python.q6_2_prepare_simulation" />
-      <item itemvalue="Python.q6_3_analyze_data" />
       <item itemvalue="Python.q6_4_find_first_mutation_generation" />
+      <item itemvalue="Python.part2_analyze_data" />
+      <item itemvalue="Python.part1_prepare_simulation" />
+      <item itemvalue="Python.part3_cov" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q6_3_analyze_data" />
-        <item itemvalue="Python.q6_2_prepare_simulation" />
+        <item itemvalue="Python.part2_analyze_data" />
+        <item itemvalue="Python.part3_cov" />
+        <item itemvalue="Python.part1_prepare_simulation" />
         <item itemvalue="Python.q6_4_find_first_mutation_generation" />
         <item itemvalue="Python.q3_2_probability_of_zero_copy" />
-        <item itemvalue="Python.q4_2_transcriptional_bursting" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644190467075</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Final">
+      <created>1644215457376</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1644215457376</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -681,6 +695,11 @@
           <url>file://$PROJECT_DIR$/HW3/q4_framework.py</url>
           <line>61</line>
           <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final/part2_analyze_data.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="293" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
